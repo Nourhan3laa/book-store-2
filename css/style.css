@@ -1,0 +1,14 @@
+.navbar{
+    border-bottom: 4px solid #5AA7B7;
+    box-shadow: 0 2px 5px #5aa7b7;
+    opacity: .9;
+}
+header{min-height: 100vh; 
+    background-image: linear-gradient(rgba(88, 165, 180 , .7),rgba(88, 165, 180 , .7)) , url(../images/mountains.jpg);
+ background-position: center; background-size: cover;  }
+ 
+ /* .authorimg { */
+    /* width: 100px;} */
+    .card img {
+        margin-top: -40px;
+      }
